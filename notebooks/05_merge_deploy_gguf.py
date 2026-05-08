@@ -5,7 +5,8 @@
 # ---
 
 # %% [markdown]
-# # NB5 — Merge + Deploy + GGUF
+# # NB5 — Merge, Deploy & GGUF
+# Student: Mai Việt Hoàng (2A202600476)
 #
 # **Stack:** Unsloth `merge_and_unload` + `save_pretrained_gguf(quantization='Q4_K_M')`
 # + llama-cpp-python smoke test.

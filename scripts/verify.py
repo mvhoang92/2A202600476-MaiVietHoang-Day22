@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Student: Mai Việt Hoàng (2A202600476)
 """Pre-submission sanity check + smoke mode.
 
 Run from repo root: `make verify` (or `python scripts/verify.py`).

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""CLI wrapper — run NB4 eval logic OR plot β-sweep results.
+# Student: Mai Việt Hoàng (2A202600476)
+"""CLI wrapper for NB4 logic: side-by-side comparison + optional API judge.
 
 Two modes:
 1. Standard eval (no flags): regenerate side-by-side eval from current SFT + DPO adapters.

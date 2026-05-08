@@ -5,7 +5,8 @@
 # ---
 
 # %% [markdown]
-# # NB6 — LLM Benchmark: SFT-only vs SFT+DPO
+# # NB6 — Quantitative Benchmark (IFEval / GSM8K / MMLU / AlpacaEval-lite)
+# Student: Mai Việt Hoàng (2A202600476)
 #
 # **Stack:** `lm-eval-harness` (IFEval, GSM8K, MMLU) + hand-rolled AlpacaEval-lite (judge-based).
 # Maps to deck §8.1–§8.5 (Đánh giá Alignment): static suites · judge-based suites · reward-model

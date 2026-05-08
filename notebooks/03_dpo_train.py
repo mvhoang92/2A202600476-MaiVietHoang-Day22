@@ -6,6 +6,7 @@
 
 # %% [markdown]
 # # NB3 — DPO Training (the main event)
+# Student: Mai Việt Hoàng (2A202600476)
 #
 # **Stack:** TRL `DPOTrainer` + `DPOConfig(beta=0.1, lr=5e-7)` from deck §5.2.
 # Maps to deck §3 (DPO derivation), §3.4 (failure modes — read closely!), §5.2 (TRL impl).

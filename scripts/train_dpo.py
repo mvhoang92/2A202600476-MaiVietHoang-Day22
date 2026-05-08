@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Student: Mai Việt Hoàng (2A202600476)
 """CLI wrapper for NB3 logic — trains a DPO adapter.
 
 Usage:

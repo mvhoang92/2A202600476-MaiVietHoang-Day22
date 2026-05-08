@@ -5,7 +5,8 @@
 # ---
 
 # %% [markdown]
-# # NB4 — Compare and Eval (SFT-only vs SFT+DPO)
+# # NB4 — Model Comparison & Side-by-Side Eval
+# Student: Mai Việt Hoàng (2A202600476)
 #
 # **Stack:** Generation from both adapters + 8 fixed prompts + optional API judge.
 # Maps to deck §7.1 (demo: 3.2 → 4.1 helpfulness on UltraFeedback).

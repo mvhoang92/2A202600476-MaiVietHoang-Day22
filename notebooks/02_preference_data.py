@@ -6,6 +6,7 @@
 
 # %% [markdown]
 # # NB2 — Preference Data
+# Student: Mai Việt Hoàng (2A202600476)
 #
 # **Stack:** `argilla/ultrafeedback-binarized-preferences-cleaned` + tokenizer apply_chat_template.
 # Maps to deck §5.1 (preference data formats) + §5.4 (VN landscape — what exists vs not).

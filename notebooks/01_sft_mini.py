@@ -6,6 +6,7 @@
 
 # %% [markdown]
 # # NB1 — SFT-mini: Build the Lab 21 SFT checkpoint inline
+# Student: Mai Việt Hoàng (2A202600476)
 #
 # **Stack:** Unsloth + LoRA r=16 + bitsandbytes 4-bit base + 1k VN Alpaca, 1 epoch.
 # Maps to deck §1 (why SFT alone insufficient — motivates the upcoming DPO step) +

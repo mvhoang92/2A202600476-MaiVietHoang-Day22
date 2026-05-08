@@ -1,5 +1,8 @@
 # Day 22 — DPO/ORPO Alignment Lab (Track 3)
 
+**Student: Mai Việt Hoàng**  
+**ID: 2A202600476**
+
 Lab cho **AICB-P2T3 · Ngày 22 · DPO/ORPO Alignment — From SFT to Preference Learning**.
 Build SFT-mini checkpoint → train DPO adapter → compare SFT-only vs SFT+DPO → merge + GGUF + serve.
 

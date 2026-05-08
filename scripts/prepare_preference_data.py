@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""CLI wrapper for NB2 logic — prepares preference Parquet.
+# Student: Mai Việt Hoàng (2A202600476)
+"""CLI wrapper for NB2 logic: load preference dataset, format, and save Parquet.
 
 Usage:
     python scripts/prepare_preference_data.py
